@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Droppable } from '@hello-pangea/dnd';
+import { Droppable } from 'react-beautiful-dnd';
 import { Box, Divider, Stack, Typography } from '@mui/material';
 import { OrdersDndDraggable } from './orders-dnd-draggable';
 
